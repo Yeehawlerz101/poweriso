@@ -30,6 +30,6 @@ Improve dmg and wim file support.
 Some minor bug fixes and enhancements.  
 
 # Downloads:  
-PowerISO for Linux -- This is the file "poweriso". This is a free utility for linux which can extract, list, and convert image files (including ISO, BIN, DAA, and other formats).  Type " poweriso -? " for detailed usage information.  
+PowerISO for Linux -- This is the file "poweriso/tar.gz". This is a free utility for linux which can extract, list, and convert image files (including ISO, BIN, DAA, and other formats).  Type " poweriso -? " for detailed usage information.  
 File Size: 278KB
-PowerISO for Windows -- Provided as 2 installers -- PowerISO6-x64.exe and PowerISO6-x86.exe
+PowerISO for Windows -- Provided as 2 installers -- PowerISO6-x64.exe.zip and PowerISO6-x86.exe.zip
