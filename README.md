@@ -17,7 +17,7 @@ PowerISO is a powerful CD / DVD / BD image file processing tool, which allows yo
 + PowerISO supports shell integration, context menu, drag and drop, clipboard copy paste
 
 # System requirements
-+ Windows 98 / Window Me / Windows 2000 / Windows XP / Windows 2003 / Windows Vista / +Windows 7 / Windows 8 / 8.1 / Windows 10 operating system or above.  
++ Windows 98 / Window Me / Windows 2000 / Windows XP / Windows 2003 / Windows Vista / Windows 7 / Windows 8 / 8.1 / Windows 10 operating system or above.  
 + Intel Pentium 166MHz or above.  
 + 64MB memory.  
 + At least 10MB hard disk space.
