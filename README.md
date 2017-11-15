@@ -32,3 +32,7 @@ This is the file "poweriso/tar.gz". This is a free utility for linux which can e
 There is two versions: 64x and 86x version for different types of the Windows OS
 # Keys
 Keys are to be used for educational purposes and are not free, with respect to the owners of the PowerISO if they ask to have keys removed than so be it.
+#### Credits
++ [Markdown Cheat Sheet Found Here](http://poweriso.com/)
++ PowerIso Creators/developers: Power Software Ltd.
++ [thioshp for creating the master branch](https://github.com/thioshp).
